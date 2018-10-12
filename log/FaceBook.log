@@ -1,0 +1,6 @@
+2018-11-10 18:59:09  ERROR [pages.HomePage] : Home page wasn't opened
+2018-11-10 18:59:09   INFO [pages.HomePage] : Login '+380637618268' was inputted
+2018-11-10 18:59:09   INFO [pages.HomePage] : Password'qwerty123456' was inputted
+2018-11-10 18:59:13   INFO [pages.HomePage] : Button 'LogIn' was submitted
+2018-11-10 18:59:13   INFO [pages.AccountPage] : Title is displayed
+2018-11-10 18:59:15   INFO [pages.AccountPage] : Browser was closed
